@@ -12,7 +12,7 @@ class Single
 	static Single s1=new Single();
 	private Single()
 	{
-		
+		System.out.println("helloworld");
 	}
 	public static Single getInstance()
 	{ 
